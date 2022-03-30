@@ -4,3 +4,4 @@
 
 * Python OO:
    * Mais sobre funções e métodos úteis: https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-mais-sobre-funcoes-e-metodos-uteis-exs.ipynb
+   * Classe Autor, Livro, Biblioteca: https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-classe-autor-livro-e-biblioteca-exs.ipynb
