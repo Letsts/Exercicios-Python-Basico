@@ -1,7 +1,7 @@
-# Resolução dos Exercícios do Roteiro de Estudos para Projetos (https://github.com/piim-lab/roteiro-projetos)
+# Resolução dos Exercícios do <a href="https://github.com/piim-lab/roteiro-projetos">Roteiro de Estudos para Projetos</a>
 
-* Python Básico: https://github.com/Letsts/ExerciciosPython/blob/main/Python%20Basico%20Exercicios/python-basico-exs.ipynb
+* <a href="https://github.com/Letsts/ExerciciosPython/blob/main/Python%20Basico%20Exercicios/python-basico-exs.ipynb">Python Básico</a>
 
 * Python OO:
-   * Mais sobre funções e métodos úteis: https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-mais-sobre-funcoes-e-metodos-uteis-exs.ipynb
-   * Classe Autor, Livro, Biblioteca: https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-classe-autor-livro-e-biblioteca-exs.ipynb
+   * <a href="https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-mais-sobre-funcoes-e-metodos-uteis-exs.ipynb">Mais sobre funções e métodos úteis</a>
+   * <a href= "https://github.com/Letsts/ExerciciosPython/blob/main/Python%20OO%20Exercicios/pythonOO-classe-autor-livro-e-biblioteca-exs.ipynb">Classe Autor, Livro, Biblioteca</a>
